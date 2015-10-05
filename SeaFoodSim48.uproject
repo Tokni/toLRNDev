@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D15AF06B-476B-4567-B9C5-169DB514A62E}",
+	"EngineAssociation": "4.8",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Substance",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/2f6439c2f9584f49809d9b13b16c2ba4"
+		}
+	]
 }
